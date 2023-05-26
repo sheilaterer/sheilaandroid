@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sheila</string>
+    <string name="title_activity_card2">card2Activity</string>
+    <string name="title_activity_card3">card3Activity</string>
+    <string name="title_activity_card4">card4Activity</string>
+</resources>
